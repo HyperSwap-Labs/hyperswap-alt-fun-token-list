@@ -1,0 +1,440 @@
+{
+  "name": "alt.fun Token List",
+  "timestamp": "2026-05-31T21:26:26.742Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "alt.fun",
+    "hyperliquid",
+    "graduated"
+  ],
+  "tokens": [
+    {
+      "chainId": 999,
+      "address": "0x0148b638Da5De885A3E2D89C5e3bf0C6D0000000",
+      "name": "Hyperbald",
+      "symbol": "BALD",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/5e8d089a-3224-480a-9e4c-3a6de26603a5-hyperbald-banner.webp"
+    },
+    {
+      "chainId": 999,
+      "address": "0x05bd15358bF9aaE88F38e3A533995E8929e00000",
+      "name": "dog in vest",
+      "symbol": "invest",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/790ee5c7-d658-40f9-b141-98119c2315f7-3807c31217055a97964ce08e9b9d37875a7db3d8d50d6325b36abf4849c6c48d.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0x08d6BDAE4b598ceafE9d884AE736987826500000",
+      "name": "NVIDIA RTX",
+      "symbol": "RTX",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/2ca96d85-caca-49e4-adcb-6b8926a62f1f-SRvCZSfQ_400x400.jpg"
+    },
+    {
+      "chainId": 999,
+      "address": "0x0987B4FDc189D4349C11f33179061E6E16000000",
+      "name": "GHOST",
+      "symbol": "GHOST",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/04bacba8-1ace-41d7-89c5-1323cda557f4-zec.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0x17a438E97614BB6b91C49A775335596Cc9000000",
+      "name": "Retarded Online Investment",
+      "symbol": "ROI",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/f89a053c-98e3-4005-8254-4384bd99cc0f-IMG_0133.jpeg"
+    },
+    {
+      "chainId": 999,
+      "address": "0x1de53B19684deb52B3c5C317D290e25bb8f00000",
+      "name": "Tesla",
+      "symbol": "TSLA",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/a6942d00-de8c-4979-92af-c40a21f3ea7e-logo-tesla.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0x1E20F45F0582EE5c0530245FED4426CD00000000",
+      "name": "AURA",
+      "symbol": "AURA",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/2e513957-615d-4ea3-951c-c547214d57ea-dcd5472d-8799-4a4c-821a-20c546cc2503.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0x1e4ECd078b00AFc6e037ACC41ad31CD047900000",
+      "name": "Bagels",
+      "symbol": "Bagels",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/854899d9-41a6-45d6-b13c-6deb02db6ab1-image.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0x1Fca0F7D310E3D3eDCe3B13B57ba3885f9000000",
+      "name": "Gold",
+      "symbol": "XAU",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/e2566340-a0d6-4905-b65e-ff199c13f168-New-Project-1.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0x27270BD5B2C4e3aEF30cce8C8eEBe6eb70000000",
+      "name": "ASSDAQ",
+      "symbol": "ASSDAQ",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/62f21c26-3964-4ec8-8d79-406a2e604d50-3DH32H3JH3J.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0x2De1F08b587683Fc3a2d45979b602D545B200000",
+      "name": "Asteroid",
+      "symbol": "Asteroid",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/c6ddcf79-0874-483e-862a-5ba82c7f7842-image.jpg"
+    },
+    {
+      "chainId": 999,
+      "address": "0x3275367939EDe67EB6BF061A6E87330848400000",
+      "name": "Pürr",
+      "symbol": "Pürr",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/c5634d52-0474-4921-8c10-3e31fe9d1548-pp.webp"
+    },
+    {
+      "chainId": 999,
+      "address": "0x42373C918Cd3Ee1ac23fdbee171dC15770000000",
+      "name": "CHAIR",
+      "symbol": "CHAIR",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/853ff8c1-1832-4fd9-bc90-983639f242f0-images-7.jpeg"
+    },
+    {
+      "chainId": 999,
+      "address": "0x45F6FBe7722a9e12748592b76f3348edBd300000",
+      "name": "Leslie the Rhino",
+      "symbol": "Leslie",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/d1321244-f836-461d-b2bb-4222bd0aefb9-2026-05-18-061334.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0x495F3EB3ac312e03158a58F1C995dbd791500000",
+      "name": "STONKS",
+      "symbol": "STONKS",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/f14a0e08-48ec-4870-a5fc-94bae47a6484-images.jpg"
+    },
+    {
+      "chainId": 999,
+      "address": "0x4BF8B8fe4dE6B680C19d79580dC9f5b2F0000000",
+      "name": "Decentralized Nasdaq",
+      "symbol": "DNDX",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/608bb515-e7b5-48a1-9df9-1e61d28e4d37-telegram-cloud-photo-size-1-5021980735682227960-x.webp"
+    },
+    {
+      "chainId": 999,
+      "address": "0x5ceD801526221C843db08Ea0A08b1932C2000000",
+      "name": "ELON COIN",
+      "symbol": "ELON",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/766656bf-a5c2-4b99-b88f-37270cb8863b-photo_2026-05-15_20-57-23.jpg"
+    },
+    {
+      "chainId": 999,
+      "address": "0x61667a0C7b5306F884C61E3909C3F8411B000000",
+      "name": "Artificial Inu",
+      "symbol": "Ai",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/39f6a3d5-f855-4234-9233-e8e88f96bc54-photo_2026-05-16_20-01-35.webp"
+    },
+    {
+      "chainId": 999,
+      "address": "0x6257a4b7C65805D3c3EceA017BD7821941600000",
+      "name": "Aliens on earth",
+      "symbol": "chameleon",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/d05b3dd5-c91e-4444-9c25-c0402786095b-047c6de8-6686-4549-a39c-055c69ecdb50.webp"
+    },
+    {
+      "chainId": 999,
+      "address": "0x7698c66207AcdF025dde208F5a1E721b65000000",
+      "name": "SpaceX",
+      "symbol": "SPCX",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/5c549719-6454-4524-b1be-e5863980fca2-ScreenShot_2026-05-15_160324_398.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0x774573550c26C8D29A79b8506BA30995c9C00000",
+      "name": "SpaceX",
+      "symbol": "SPCX",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/7391818b-0eb6-4d30-8b52-4e21ba6da1ae-spacex.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0x7807FF06241137e512a29404eDF655c43A000000",
+      "name": "JPEG Reserve",
+      "symbol": "JPG Rsv",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/43854e4a-67ed-4d87-a102-8dc9b92bc7b7-photo_2026-05-17_05-26-35.webp"
+    },
+    {
+      "chainId": 999,
+      "address": "0x8451f51C6A1b27E9579BDbad93187eD5C0000000",
+      "name": "MINARY",
+      "symbol": "MINARY",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/c94f214b-692c-47ed-9251-b9d6c738e3b6-logominary.webp"
+    },
+    {
+      "chainId": 999,
+      "address": "0x851eF4a77CC09Ee80d3B89DB15730Ae78A000000",
+      "name": "NASDUCK",
+      "symbol": "NASDUCK",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/6bc9a8c6-0495-4d6b-952b-1746cfd6bcbe-photo_2026-05-16_11-10-25.webp"
+    },
+    {
+      "chainId": 999,
+      "address": "0x8c146c9d93Ec514087d0baCD6A40B88E9f000000",
+      "name": "MicroStrategy",
+      "symbol": "MSTR",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/4b4b4e6c-b382-4b38-aa7f-d35254dbace0-download.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0x8cc03D3589d571F4c3DDE3A6DeC9D34a1d000000",
+      "name": "HYPERO",
+      "symbol": "HYPERO",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/3e798a3e-d666-44b1-8d06-02c78cf4de2f-ChatGPT-Image-19-mai-2026-16_34_09.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0x8E966F964Ab80af6e0e604Ceea1D2f3F78000000",
+      "name": "HYPERBULL",
+      "symbol": "HBULL",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/31515b0a-117e-41e3-bbb7-9869077e93dc-Screenshot_191.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0x92B26f1EAeb81749Dfb0cC4c1bB46A1970000000",
+      "name": "FAT NEKO",
+      "symbol": "FATNEKO",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/d52b0183-5e6a-447b-a29a-6ce04fc30678-FAT-NEKO-logo.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0x99279440A9a6E19D28Bd45fA7B437cCB69000000",
+      "name": "Oil",
+      "symbol": "Oil",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/bfc16360-c5af-498c-b12c-3b9fc159dde0-IMG_3429.webp"
+    },
+    {
+      "chainId": 999,
+      "address": "0x9ab7031eab17ce5cCfA3c767FFBAf8C2c3000000",
+      "name": "HYPURR",
+      "symbol": "HYPURR",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/72b4f8e4-f71e-4bdf-891d-712ab5170a99-Screenshot-2026-05-14-at-13.08.05.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0x9edFA19b86F188f2dD4504dA0A7206b6E4000000",
+      "name": "Hype House",
+      "symbol": "HYPEHOUSE",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/fa577764-f6b3-484f-8e04-a75533de3d9a-AkshjjxmUfmShrhMnZCWwXEVdJKpeFoSM6iDviVypump-22.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0xa2d8f01b3ccefA14Dec8c18Ba2769C2CE0000000",
+      "name": "@Hyperliquid",
+      "symbol": "Andrew",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/bccd2b51-157a-4fd6-b3d8-4b8096948ed6-5cca38f1-b5d0-4fa3-9895-fb07015270b2.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0xa3882D42ed12B57C10C85E8Ec8fEBD0774600000",
+      "name": "ALT",
+      "symbol": "ALT",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/c7457676-005b-41e0-880a-32bc904c4116-2fY5HRss_400x400.jpg"
+    },
+    {
+      "chainId": 999,
+      "address": "0xa48B8E7C028B8A9c8Cbc4009D1fbe4c739000000",
+      "name": "ALTER",
+      "symbol": "ALTER",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/25063123-145f-44dc-a794-35f3752b89d0-c272697b-a435-4917-8cb3-13a55f445c98.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0xA62be0823d578c69357c581AD9b679dE65000000",
+      "name": "顶流",
+      "symbol": "顶流",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/ddbf342b-6946-4adf-aa31-b9d56297a305-IMG_8566.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0xad00064EaFf2F497c3CE28Bd4EeB4cF5c0000000",
+      "name": "War",
+      "symbol": "WAR",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/eb6b877c-360b-43fd-aad5-a662a7dc6496-ChatGPT-Image-May-14-2026-12_29_46-PM.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0xaEF8c9789418293b504508536cB95C91e0000000",
+      "name": "The Big Short",
+      "symbol": "TBS",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/ff751504-e946-4f5c-bb36-8fed5f8f0971-river.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0xB049fCC9928Fd4B5beD07b85D1E9bf3bc2000000",
+      "name": "Fuck Toly",
+      "symbol": "FTOLY",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/16ecf70c-34d7-4385-81e3-62653441e6c9-jCm1b.webp"
+    },
+    {
+      "chainId": 999,
+      "address": "0xB4398261b457388232f90B7F09CAA11690000000",
+      "name": "ZODL",
+      "symbol": "ZODL",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/bf0e2915-98cd-4afa-8312-8a463df4590b-magnific_recreate-img1-like-it-is-_2995740043.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0xB6790B8A7E78ca873C3FB70A5571493120700000",
+      "name": "SPCX",
+      "symbol": "SPCX",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/c9a401b7-34db-4fbb-8209-963179057cac-spcx.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0xc2292a5B72A14Da25732d1Ac597e6bfA25000000",
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/4913b2cd-f08d-4264-956d-3cc489e3e3c7-st-small-507x507-pad-600x600-f8f8f8.webp"
+    },
+    {
+      "chainId": 999,
+      "address": "0xc60dF70787CcB36E8093De9b8B3808Ade2000000",
+      "name": "PEACE",
+      "symbol": "PEACE",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/53132af5-b98a-4e02-84d4-69a6d4fc6577-peace.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0xC8226FDABFEEE619C572ce2795059A219fF00000",
+      "name": "Cyberhog",
+      "symbol": "DANGER",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/a9d5a324-73be-4cbc-90d9-3cfd5ddb0c99-file_209-5045912a-eeda-429e-a5ea-65278bf9afbb.jpg"
+    },
+    {
+      "chainId": 999,
+      "address": "0xc909eC674a4aD844dAAcdF4A15c551790b700000",
+      "name": "Dothls",
+      "symbol": "DOTHL",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/e285f078-df11-4bc9-b2db-b1772383a020-image.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0xd2ae5817CC81774d283A98C950AF8705FF100000",
+      "name": "Hyperliquid cycle",
+      "symbol": "Cycle",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/3f98a333-1086-44a8-845b-e9de49be8326-IMAGE-2026-05-17-15-51-30.webp"
+    },
+    {
+      "chainId": 999,
+      "address": "0xdC70a7E876E163EF354924eaEa3aB04eB9100000",
+      "name": "ANON COIN",
+      "symbol": "ANON",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/62727424-5043-4fdd-88ed-4619cd70b6c7-hacker-mask-icon-free-vector.webp"
+    },
+    {
+      "chainId": 999,
+      "address": "0xE0BA52d180fA09b9dcE6D92bEE0bdEEEEC000000",
+      "name": "HYPE LIFE",
+      "symbol": "HYPE人生",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/f55d0b1b-e155-489e-a4d5-8ad9f4b360bf-ScreenShot_2026-05-15_122248_544.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0xE0ee45a1Ef459144E20010e7b1f004BA41000000",
+      "name": "XYZ100",
+      "symbol": "Nasdaq",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/0116118c-2b35-456d-91a6-725d992a846c-ScreenShot_2026-05-15_151340_196.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0xe536FB4E1299b4012f295b1CCC011d58F5000000",
+      "name": "HYPEgo500",
+      "symbol": "HYPEgo500",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/0fe4cc0a-39cb-4b29-88c3-29fc98d9dc4f-044C4231-F73A-438F-AB26-D8B732B5AF8D.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0xF3d8e8C2fc0531F3bF72F7d72eA158aE2B000000",
+      "name": "ATH",
+      "symbol": "ATH",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/589f22d9-1dee-44cc-a81c-d82814971239-ChatGPT-Image-17-.-2026-.-21_25_41.png"
+    },
+    {
+      "chainId": 999,
+      "address": "0xF97645f1A7FBA07914c3eef40D27644741000000",
+      "name": "BTC PIZZA",
+      "symbol": "PIZZA",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/d8db38ac-6209-497b-bed6-95a130bdb1e3-photo_2026-05-17_03-22-49.webp"
+    },
+    {
+      "chainId": 999,
+      "address": "0xfEeDc0344E5C0B7c8816488Dff0dd83669000000",
+      "name": "Boomer Coin",
+      "symbol": "BOOMER",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/18527c6c-7c8d-4706-9c41-b182ea3214b5-boomer.jpg"
+    },
+    {
+      "chainId": 999,
+      "address": "0xff952e9CFC8B0490F33896A59575D11B49000000",
+      "name": "Jeffs Dog",
+      "symbol": "MAX",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/f332275d-3f3f-4f84-ba34-620d7af38bb8-jeffdog.jpeg"
+    }
+  ]
+}
