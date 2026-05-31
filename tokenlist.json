@@ -419,22 +419,6 @@
       "symbol": "PIZZA",
       "decimals": 18,
       "logoURI": "https://api.alt.fun/images/tokens/d8db38ac-6209-497b-bed6-95a130bdb1e3-photo_2026-05-17_03-22-49.webp"
-    },
-    {
-      "chainId": 999,
-      "address": "0xfEeDc0344E5C0B7c8816488Dff0dd83669000000",
-      "name": "Boomer Coin",
-      "symbol": "BOOMER",
-      "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/18527c6c-7c8d-4706-9c41-b182ea3214b5-boomer.jpg"
-    },
-    {
-      "chainId": 999,
-      "address": "0xff952e9CFC8B0490F33896A59575D11B49000000",
-      "name": "Jeffs Dog",
-      "symbol": "MAX",
-      "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/f332275d-3f3f-4f84-ba34-620d7af38bb8-jeffdog.jpeg"
     }
   ]
 }
