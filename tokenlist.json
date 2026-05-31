@@ -1,16 +1,22 @@
 {
   "name": "alt.fun Token List",
-  "timestamp": "2026-05-31T21:45:19.301Z",
+  "timestamp": "2026-05-31T21:51:43.301Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "keywords": [
     "alt.fun",
     "hyperliquid",
     "graduated"
   ],
+  "tags": {
+    "altfun": {
+      "name": "alt.fun",
+      "description": "Token graduated on alt.fun"
+    }
+  },
   "tokens": [
     {
       "chainId": 999,
@@ -18,7 +24,10 @@
       "name": "Hyperbald",
       "symbol": "BALD",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/5e8d089a-3224-480a-9e4c-3a6de26603a5-hyperbald-banner.webp"
+      "logoURI": "https://api.alt.fun/images/tokens/5e8d089a-3224-480a-9e4c-3a6de26603a5-hyperbald-banner.webp",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -26,7 +35,10 @@
       "name": "dog in vest",
       "symbol": "invest",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/790ee5c7-d658-40f9-b141-98119c2315f7-3807c31217055a97964ce08e9b9d37875a7db3d8d50d6325b36abf4849c6c48d.png"
+      "logoURI": "https://api.alt.fun/images/tokens/790ee5c7-d658-40f9-b141-98119c2315f7-3807c31217055a97964ce08e9b9d37875a7db3d8d50d6325b36abf4849c6c48d.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -34,7 +46,10 @@
       "name": "NVIDIA RTX",
       "symbol": "RTX",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/2ca96d85-caca-49e4-adcb-6b8926a62f1f-SRvCZSfQ_400x400.jpg"
+      "logoURI": "https://api.alt.fun/images/tokens/2ca96d85-caca-49e4-adcb-6b8926a62f1f-SRvCZSfQ_400x400.jpg",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -42,7 +57,10 @@
       "name": "GHOST",
       "symbol": "GHOST",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/04bacba8-1ace-41d7-89c5-1323cda557f4-zec.png"
+      "logoURI": "https://api.alt.fun/images/tokens/04bacba8-1ace-41d7-89c5-1323cda557f4-zec.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -50,7 +68,10 @@
       "name": "Retarded Online Investment",
       "symbol": "ROI",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/f89a053c-98e3-4005-8254-4384bd99cc0f-IMG_0133.jpeg"
+      "logoURI": "https://api.alt.fun/images/tokens/f89a053c-98e3-4005-8254-4384bd99cc0f-IMG_0133.jpeg",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -58,7 +79,10 @@
       "name": "Tesla",
       "symbol": "TSLA",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/a6942d00-de8c-4979-92af-c40a21f3ea7e-logo-tesla.png"
+      "logoURI": "https://api.alt.fun/images/tokens/a6942d00-de8c-4979-92af-c40a21f3ea7e-logo-tesla.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -66,7 +90,10 @@
       "name": "AURA",
       "symbol": "AURA",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/2e513957-615d-4ea3-951c-c547214d57ea-dcd5472d-8799-4a4c-821a-20c546cc2503.png"
+      "logoURI": "https://api.alt.fun/images/tokens/2e513957-615d-4ea3-951c-c547214d57ea-dcd5472d-8799-4a4c-821a-20c546cc2503.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -74,7 +101,10 @@
       "name": "Bagels",
       "symbol": "Bagels",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/854899d9-41a6-45d6-b13c-6deb02db6ab1-image.png"
+      "logoURI": "https://api.alt.fun/images/tokens/854899d9-41a6-45d6-b13c-6deb02db6ab1-image.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -82,7 +112,10 @@
       "name": "Gold",
       "symbol": "XAU",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/e2566340-a0d6-4905-b65e-ff199c13f168-New-Project-1.png"
+      "logoURI": "https://api.alt.fun/images/tokens/e2566340-a0d6-4905-b65e-ff199c13f168-New-Project-1.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -90,7 +123,10 @@
       "name": "ASSDAQ",
       "symbol": "ASSDAQ",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/62f21c26-3964-4ec8-8d79-406a2e604d50-3DH32H3JH3J.png"
+      "logoURI": "https://api.alt.fun/images/tokens/62f21c26-3964-4ec8-8d79-406a2e604d50-3DH32H3JH3J.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -98,7 +134,10 @@
       "name": "Asteroid",
       "symbol": "Asteroid",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/c6ddcf79-0874-483e-862a-5ba82c7f7842-image.jpg"
+      "logoURI": "https://api.alt.fun/images/tokens/c6ddcf79-0874-483e-862a-5ba82c7f7842-image.jpg",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -106,7 +145,10 @@
       "name": "Pürr",
       "symbol": "Pürr",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/c5634d52-0474-4921-8c10-3e31fe9d1548-pp.webp"
+      "logoURI": "https://api.alt.fun/images/tokens/c5634d52-0474-4921-8c10-3e31fe9d1548-pp.webp",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -114,7 +156,10 @@
       "name": "CHAIR",
       "symbol": "CHAIR",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/853ff8c1-1832-4fd9-bc90-983639f242f0-images-7.jpeg"
+      "logoURI": "https://api.alt.fun/images/tokens/853ff8c1-1832-4fd9-bc90-983639f242f0-images-7.jpeg",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -122,7 +167,10 @@
       "name": "Leslie the Rhino",
       "symbol": "Leslie",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/d1321244-f836-461d-b2bb-4222bd0aefb9-2026-05-18-061334.png"
+      "logoURI": "https://api.alt.fun/images/tokens/d1321244-f836-461d-b2bb-4222bd0aefb9-2026-05-18-061334.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -130,7 +178,10 @@
       "name": "STONKS",
       "symbol": "STONKS",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/f14a0e08-48ec-4870-a5fc-94bae47a6484-images.jpg"
+      "logoURI": "https://api.alt.fun/images/tokens/f14a0e08-48ec-4870-a5fc-94bae47a6484-images.jpg",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -138,7 +189,10 @@
       "name": "Decentralized Nasdaq",
       "symbol": "DNDX",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/608bb515-e7b5-48a1-9df9-1e61d28e4d37-telegram-cloud-photo-size-1-5021980735682227960-x.webp"
+      "logoURI": "https://api.alt.fun/images/tokens/608bb515-e7b5-48a1-9df9-1e61d28e4d37-telegram-cloud-photo-size-1-5021980735682227960-x.webp",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -146,7 +200,10 @@
       "name": "ELON COIN",
       "symbol": "ELON",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/766656bf-a5c2-4b99-b88f-37270cb8863b-photo_2026-05-15_20-57-23.jpg"
+      "logoURI": "https://api.alt.fun/images/tokens/766656bf-a5c2-4b99-b88f-37270cb8863b-photo_2026-05-15_20-57-23.jpg",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -154,7 +211,10 @@
       "name": "Artificial Inu",
       "symbol": "Ai",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/39f6a3d5-f855-4234-9233-e8e88f96bc54-photo_2026-05-16_20-01-35.webp"
+      "logoURI": "https://api.alt.fun/images/tokens/39f6a3d5-f855-4234-9233-e8e88f96bc54-photo_2026-05-16_20-01-35.webp",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -162,7 +222,10 @@
       "name": "Aliens on earth",
       "symbol": "chameleon",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/d05b3dd5-c91e-4444-9c25-c0402786095b-047c6de8-6686-4549-a39c-055c69ecdb50.webp"
+      "logoURI": "https://api.alt.fun/images/tokens/d05b3dd5-c91e-4444-9c25-c0402786095b-047c6de8-6686-4549-a39c-055c69ecdb50.webp",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -170,7 +233,10 @@
       "name": "SpaceX",
       "symbol": "SPCX",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/5c549719-6454-4524-b1be-e5863980fca2-ScreenShot_2026-05-15_160324_398.png"
+      "logoURI": "https://api.alt.fun/images/tokens/5c549719-6454-4524-b1be-e5863980fca2-ScreenShot_2026-05-15_160324_398.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -178,7 +244,10 @@
       "name": "SpaceX",
       "symbol": "SPCX",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/7391818b-0eb6-4d30-8b52-4e21ba6da1ae-spacex.png"
+      "logoURI": "https://api.alt.fun/images/tokens/7391818b-0eb6-4d30-8b52-4e21ba6da1ae-spacex.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -186,7 +255,10 @@
       "name": "JPEG Reserve",
       "symbol": "JPG Rsv",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/43854e4a-67ed-4d87-a102-8dc9b92bc7b7-photo_2026-05-17_05-26-35.webp"
+      "logoURI": "https://api.alt.fun/images/tokens/43854e4a-67ed-4d87-a102-8dc9b92bc7b7-photo_2026-05-17_05-26-35.webp",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -194,7 +266,10 @@
       "name": "MINARY",
       "symbol": "MINARY",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/c94f214b-692c-47ed-9251-b9d6c738e3b6-logominary.webp"
+      "logoURI": "https://api.alt.fun/images/tokens/c94f214b-692c-47ed-9251-b9d6c738e3b6-logominary.webp",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -202,7 +277,10 @@
       "name": "NASDUCK",
       "symbol": "NASDUCK",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/6bc9a8c6-0495-4d6b-952b-1746cfd6bcbe-photo_2026-05-16_11-10-25.webp"
+      "logoURI": "https://api.alt.fun/images/tokens/6bc9a8c6-0495-4d6b-952b-1746cfd6bcbe-photo_2026-05-16_11-10-25.webp",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -210,7 +288,10 @@
       "name": "MicroStrategy",
       "symbol": "MSTR",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/4b4b4e6c-b382-4b38-aa7f-d35254dbace0-download.png"
+      "logoURI": "https://api.alt.fun/images/tokens/4b4b4e6c-b382-4b38-aa7f-d35254dbace0-download.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -218,7 +299,10 @@
       "name": "HYPERO",
       "symbol": "HYPERO",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/3e798a3e-d666-44b1-8d06-02c78cf4de2f-ChatGPT-Image-19-mai-2026-16_34_09.png"
+      "logoURI": "https://api.alt.fun/images/tokens/3e798a3e-d666-44b1-8d06-02c78cf4de2f-ChatGPT-Image-19-mai-2026-16_34_09.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -226,7 +310,10 @@
       "name": "HYPERBULL",
       "symbol": "HBULL",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/31515b0a-117e-41e3-bbb7-9869077e93dc-Screenshot_191.png"
+      "logoURI": "https://api.alt.fun/images/tokens/31515b0a-117e-41e3-bbb7-9869077e93dc-Screenshot_191.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -234,7 +321,10 @@
       "name": "FAT NEKO",
       "symbol": "FATNEKO",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/d52b0183-5e6a-447b-a29a-6ce04fc30678-FAT-NEKO-logo.png"
+      "logoURI": "https://api.alt.fun/images/tokens/d52b0183-5e6a-447b-a29a-6ce04fc30678-FAT-NEKO-logo.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -242,7 +332,10 @@
       "name": "Oil",
       "symbol": "Oil",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/bfc16360-c5af-498c-b12c-3b9fc159dde0-IMG_3429.webp"
+      "logoURI": "https://api.alt.fun/images/tokens/bfc16360-c5af-498c-b12c-3b9fc159dde0-IMG_3429.webp",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -250,7 +343,10 @@
       "name": "HYPURR",
       "symbol": "HYPURR",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/72b4f8e4-f71e-4bdf-891d-712ab5170a99-Screenshot-2026-05-14-at-13.08.05.png"
+      "logoURI": "https://api.alt.fun/images/tokens/72b4f8e4-f71e-4bdf-891d-712ab5170a99-Screenshot-2026-05-14-at-13.08.05.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -258,7 +354,10 @@
       "name": "Hype House",
       "symbol": "HYPEHOUSE",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/fa577764-f6b3-484f-8e04-a75533de3d9a-AkshjjxmUfmShrhMnZCWwXEVdJKpeFoSM6iDviVypump-22.png"
+      "logoURI": "https://api.alt.fun/images/tokens/fa577764-f6b3-484f-8e04-a75533de3d9a-AkshjjxmUfmShrhMnZCWwXEVdJKpeFoSM6iDviVypump-22.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -266,7 +365,10 @@
       "name": "@Hyperliquid",
       "symbol": "Andrew",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/bccd2b51-157a-4fd6-b3d8-4b8096948ed6-5cca38f1-b5d0-4fa3-9895-fb07015270b2.png"
+      "logoURI": "https://api.alt.fun/images/tokens/bccd2b51-157a-4fd6-b3d8-4b8096948ed6-5cca38f1-b5d0-4fa3-9895-fb07015270b2.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -274,7 +376,10 @@
       "name": "ALT",
       "symbol": "ALT",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/c7457676-005b-41e0-880a-32bc904c4116-2fY5HRss_400x400.jpg"
+      "logoURI": "https://api.alt.fun/images/tokens/c7457676-005b-41e0-880a-32bc904c4116-2fY5HRss_400x400.jpg",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -282,7 +387,10 @@
       "name": "ALTER",
       "symbol": "ALTER",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/25063123-145f-44dc-a794-35f3752b89d0-c272697b-a435-4917-8cb3-13a55f445c98.png"
+      "logoURI": "https://api.alt.fun/images/tokens/25063123-145f-44dc-a794-35f3752b89d0-c272697b-a435-4917-8cb3-13a55f445c98.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -290,7 +398,10 @@
       "name": "顶流",
       "symbol": "顶流",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/ddbf342b-6946-4adf-aa31-b9d56297a305-IMG_8566.png"
+      "logoURI": "https://api.alt.fun/images/tokens/ddbf342b-6946-4adf-aa31-b9d56297a305-IMG_8566.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -298,7 +409,10 @@
       "name": "War",
       "symbol": "WAR",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/eb6b877c-360b-43fd-aad5-a662a7dc6496-ChatGPT-Image-May-14-2026-12_29_46-PM.png"
+      "logoURI": "https://api.alt.fun/images/tokens/eb6b877c-360b-43fd-aad5-a662a7dc6496-ChatGPT-Image-May-14-2026-12_29_46-PM.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -306,7 +420,10 @@
       "name": "The Big Short",
       "symbol": "TBS",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/ff751504-e946-4f5c-bb36-8fed5f8f0971-river.png"
+      "logoURI": "https://api.alt.fun/images/tokens/ff751504-e946-4f5c-bb36-8fed5f8f0971-river.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -314,7 +431,10 @@
       "name": "Fuck Toly",
       "symbol": "FTOLY",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/16ecf70c-34d7-4385-81e3-62653441e6c9-jCm1b.webp"
+      "logoURI": "https://api.alt.fun/images/tokens/16ecf70c-34d7-4385-81e3-62653441e6c9-jCm1b.webp",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -322,7 +442,10 @@
       "name": "ZODL",
       "symbol": "ZODL",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/bf0e2915-98cd-4afa-8312-8a463df4590b-magnific_recreate-img1-like-it-is-_2995740043.png"
+      "logoURI": "https://api.alt.fun/images/tokens/bf0e2915-98cd-4afa-8312-8a463df4590b-magnific_recreate-img1-like-it-is-_2995740043.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -330,7 +453,10 @@
       "name": "SPCX",
       "symbol": "SPCX",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/c9a401b7-34db-4fbb-8209-963179057cac-spcx.png"
+      "logoURI": "https://api.alt.fun/images/tokens/c9a401b7-34db-4fbb-8209-963179057cac-spcx.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -338,7 +464,10 @@
       "name": "Magic Internet Money",
       "symbol": "MIM",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/4913b2cd-f08d-4264-956d-3cc489e3e3c7-st-small-507x507-pad-600x600-f8f8f8.webp"
+      "logoURI": "https://api.alt.fun/images/tokens/4913b2cd-f08d-4264-956d-3cc489e3e3c7-st-small-507x507-pad-600x600-f8f8f8.webp",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -346,7 +475,10 @@
       "name": "PEACE",
       "symbol": "PEACE",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/53132af5-b98a-4e02-84d4-69a6d4fc6577-peace.png"
+      "logoURI": "https://api.alt.fun/images/tokens/53132af5-b98a-4e02-84d4-69a6d4fc6577-peace.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -354,7 +486,10 @@
       "name": "Cyberhog",
       "symbol": "DANGER",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/a9d5a324-73be-4cbc-90d9-3cfd5ddb0c99-file_209-5045912a-eeda-429e-a5ea-65278bf9afbb.jpg"
+      "logoURI": "https://api.alt.fun/images/tokens/a9d5a324-73be-4cbc-90d9-3cfd5ddb0c99-file_209-5045912a-eeda-429e-a5ea-65278bf9afbb.jpg",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -362,7 +497,10 @@
       "name": "Dothls",
       "symbol": "DOTHL",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/e285f078-df11-4bc9-b2db-b1772383a020-image.png"
+      "logoURI": "https://api.alt.fun/images/tokens/e285f078-df11-4bc9-b2db-b1772383a020-image.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -370,7 +508,10 @@
       "name": "Hyperliquid cycle",
       "symbol": "Cycle",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/3f98a333-1086-44a8-845b-e9de49be8326-IMAGE-2026-05-17-15-51-30.webp"
+      "logoURI": "https://api.alt.fun/images/tokens/3f98a333-1086-44a8-845b-e9de49be8326-IMAGE-2026-05-17-15-51-30.webp",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -378,7 +519,10 @@
       "name": "ANON COIN",
       "symbol": "ANON",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/62727424-5043-4fdd-88ed-4619cd70b6c7-hacker-mask-icon-free-vector.webp"
+      "logoURI": "https://api.alt.fun/images/tokens/62727424-5043-4fdd-88ed-4619cd70b6c7-hacker-mask-icon-free-vector.webp",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -386,7 +530,10 @@
       "name": "HYPE LIFE",
       "symbol": "HYPE人生",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/f55d0b1b-e155-489e-a4d5-8ad9f4b360bf-ScreenShot_2026-05-15_122248_544.png"
+      "logoURI": "https://api.alt.fun/images/tokens/f55d0b1b-e155-489e-a4d5-8ad9f4b360bf-ScreenShot_2026-05-15_122248_544.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -394,7 +541,10 @@
       "name": "XYZ100",
       "symbol": "Nasdaq",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/0116118c-2b35-456d-91a6-725d992a846c-ScreenShot_2026-05-15_151340_196.png"
+      "logoURI": "https://api.alt.fun/images/tokens/0116118c-2b35-456d-91a6-725d992a846c-ScreenShot_2026-05-15_151340_196.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -402,7 +552,10 @@
       "name": "HYPEgo500",
       "symbol": "HYPEgo500",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/0fe4cc0a-39cb-4b29-88c3-29fc98d9dc4f-044C4231-F73A-438F-AB26-D8B732B5AF8D.png"
+      "logoURI": "https://api.alt.fun/images/tokens/0fe4cc0a-39cb-4b29-88c3-29fc98d9dc4f-044C4231-F73A-438F-AB26-D8B732B5AF8D.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -410,7 +563,10 @@
       "name": "ATH",
       "symbol": "ATH",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/589f22d9-1dee-44cc-a81c-d82814971239-ChatGPT-Image-17-.-2026-.-21_25_41.png"
+      "logoURI": "https://api.alt.fun/images/tokens/589f22d9-1dee-44cc-a81c-d82814971239-ChatGPT-Image-17-.-2026-.-21_25_41.png",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -418,7 +574,10 @@
       "name": "BTC PIZZA",
       "symbol": "PIZZA",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/d8db38ac-6209-497b-bed6-95a130bdb1e3-photo_2026-05-17_03-22-49.webp"
+      "logoURI": "https://api.alt.fun/images/tokens/d8db38ac-6209-497b-bed6-95a130bdb1e3-photo_2026-05-17_03-22-49.webp",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -426,7 +585,10 @@
       "name": "Boomer Coin",
       "symbol": "BOOMER",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/18527c6c-7c8d-4706-9c41-b182ea3214b5-boomer.jpg"
+      "logoURI": "https://api.alt.fun/images/tokens/18527c6c-7c8d-4706-9c41-b182ea3214b5-boomer.jpg",
+      "tags": [
+        "altfun"
+      ]
     },
     {
       "chainId": 999,
@@ -434,7 +596,10 @@
       "name": "Jeffs Dog",
       "symbol": "MAX",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/f332275d-3f3f-4f84-ba34-620d7af38bb8-jeffdog.jpeg"
+      "logoURI": "https://api.alt.fun/images/tokens/f332275d-3f3f-4f84-ba34-620d7af38bb8-jeffdog.jpeg",
+      "tags": [
+        "altfun"
+      ]
     }
   ]
 }
