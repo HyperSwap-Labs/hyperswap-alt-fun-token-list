@@ -43,15 +43,25 @@ Tokens missing either are skipped entirely.
 | `symbol`   | **on-chain** `symbol()`                                   |
 | `decimals` | **on-chain** `decimals()`                                 |
 | `logoURI`  | `https://api.alt.fun` + alt.fun `imageUrl`                |
+| `tags`     | `["altfun"]` — every token carries the `altfun` tag       |
 
 `name`, `symbol` and `decimals` are read **on-chain** from each ERC-20 contract (batched via
 Multicall3 on HyperEVM), not taken from the API — so the list reflects the contract's truth.
 A token whose on-chain read fails is excluded from that run.
 
+## Tags
+
+The list defines a single tag at the top level (Uniswap Token List standard), and every
+token references it:
+
+```json
+"tags": { "altfun": { "name": "alt.fun", "description": "Token graduated on alt.fun" } }
+```
+
 ## Format & update policy
 
 - Standard [Uniswap Token List](https://github.com/Uniswap/token-lists) schema
-  (`name`, `timestamp`, `version`, `keywords`, `tokens`).
+  (`name`, `timestamp`, `version`, `keywords`, `tags`, `tokens`).
 - Tokens are sorted by address, so the file is deterministic.
 - The indexer runs on a schedule and **only commits when the token set actually changes**;
   each change bumps `version.patch`.
@@ -67,6 +77,7 @@ A token whose on-chain read fails is excluded from that run.
   "name": "Hyperbald",
   "symbol": "BALD",
   "decimals": 18,
-  "logoURI": "https://api.alt.fun/images/tokens/5e8d089a-...-hyperbald-banner.webp"
+  "logoURI": "https://api.alt.fun/images/tokens/5e8d089a-...-hyperbald-banner.webp",
+  "tags": ["altfun"]
 }
 ```
