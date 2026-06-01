@@ -1,10 +1,10 @@
 {
   "name": "alt.fun Token List",
-  "timestamp": "2026-06-01T05:31:25.111Z",
+  "timestamp": "2026-06-01T06:31:29.160Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "keywords": [
     "alt.fun",
@@ -69,6 +69,17 @@
       "symbol": "ROI",
       "decimals": 18,
       "logoURI": "https://api.alt.fun/images/tokens/f89a053c-98e3-4005-8254-4384bd99cc0f-IMG_0133.jpeg",
+      "tags": [
+        "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x1C3154b8FA4782e7dDC90667D998305810000000",
+      "name": "ALT",
+      "symbol": "ALT",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/355444db-103a-41f9-ae71-51000029e48b-photo_2026-05-14_21-41-13.webp",
       "tags": [
         "altfun"
       ]
