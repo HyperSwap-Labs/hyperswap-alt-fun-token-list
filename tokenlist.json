@@ -1,19 +1,19 @@
 {
-  "name": "alt.fun Token List",
-  "timestamp": "2026-06-01T06:31:29.160Z",
+  "name": "Alt Fun Token List",
+  "timestamp": "2026-06-01T12:22:15.955Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   },
   "keywords": [
-    "alt.fun",
+    "altfun",
     "hyperliquid",
     "graduated"
   ],
   "tags": {
     "altfun": {
-      "name": "alt.fun",
+      "name": "Alt Fun",
       "description": "Token graduated on alt.fun"
     }
   },
@@ -264,7 +264,7 @@
       "chainId": 999,
       "address": "0x7807FF06241137e512a29404eDF655c43A000000",
       "name": "JPEG Reserve",
-      "symbol": "JPG Rsv",
+      "symbol": "JPGRsv",
       "decimals": 18,
       "logoURI": "https://api.alt.fun/images/tokens/43854e4a-67ed-4d87-a102-8dc9b92bc7b7-photo_2026-05-17_05-26-35.webp",
       "tags": [
