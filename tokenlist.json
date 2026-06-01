@@ -1,10 +1,10 @@
 {
   "name": "alt.fun Token List",
-  "timestamp": "2026-05-31T21:51:43.301Z",
+  "timestamp": "2026-06-01T05:31:25.111Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "keywords": [
     "alt.fun",
@@ -449,6 +449,17 @@
     },
     {
       "chainId": 999,
+      "address": "0xb52155170c70464d66B6859E62b2b60B28600000",
+      "name": "all time low",
+      "symbol": "atl",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/80a2b94a-8601-40f7-bd6b-98c84e1499d6-c7457676-005b-41e0-880a-32bc904c4116-2fY5HRss_400x400-1-1.png",
+      "tags": [
+        "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0xB6790B8A7E78ca873C3FB70A5571493120700000",
       "name": "SPCX",
       "symbol": "SPCX",
@@ -465,6 +476,17 @@
       "symbol": "MIM",
       "decimals": 18,
       "logoURI": "https://api.alt.fun/images/tokens/4913b2cd-f08d-4264-956d-3cc489e3e3c7-st-small-507x507-pad-600x600-f8f8f8.webp",
+      "tags": [
+        "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xc4773ed28884f8063D1F76a862143BA2fB000000",
+      "name": "REPPO-HL",
+      "symbol": "REPPO-HL",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/9271934a-521c-4ef9-9c16-9b13b3bc3af0-apple-touch-icon.png",
       "tags": [
         "altfun"
       ]
