@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-06-03T14:48:39.516Z",
+  "timestamp": "2026-06-03T14:49:18.378Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 6
+    "patch": 7
   },
   "keywords": [
     "altfun",
@@ -16,9 +16,9 @@
       "name": "Alt Fun",
       "description": "Token graduated on alt.fun"
     },
-    "leveraged": {
-      "name": "Leveraged",
-      "description": "Leveraged token"
+    "bounce": {
+      "name": "Bounce",
+      "description": "Leveraged token from Bounce"
     }
   },
   "tokens": [
@@ -41,7 +41,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/kPEPE3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -52,7 +52,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/HYPE5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -63,7 +63,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:GOLD5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -74,7 +74,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/ETH2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -85,7 +85,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SP5005S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -96,7 +96,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/SOL2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -118,7 +118,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:GOLD5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -129,7 +129,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:NVDA3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -140,7 +140,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:BRENTOIL5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -173,7 +173,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SPCX3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -184,7 +184,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SILVER2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -195,7 +195,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/HYPE2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -206,7 +206,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/FARTCOIN2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -217,7 +217,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/ETH2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -228,7 +228,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/HYPE3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -250,7 +250,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CL3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -261,7 +261,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/HYPE5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -272,7 +272,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:BB2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -294,7 +294,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SP5002L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -305,7 +305,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/kPEPE3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -360,7 +360,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/BTC3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -371,7 +371,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CBRS2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -393,7 +393,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:NVDA2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -404,7 +404,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:NVDA2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -415,7 +415,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:NVDA3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -426,7 +426,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/NEAR5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -448,7 +448,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:BB3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -459,7 +459,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/ZEC5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -470,7 +470,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/NEAR2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -481,7 +481,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CL5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -503,7 +503,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:XYZ1002S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -514,7 +514,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:TSLA2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -525,7 +525,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:GOLD2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -536,7 +536,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:TSLA5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -558,7 +558,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CBRS5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -569,7 +569,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/BTC5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -591,7 +591,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SILVER5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -624,7 +624,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/DOGE3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -635,7 +635,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SP5002S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -646,7 +646,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/DOGE3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -657,7 +657,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/PAXG3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -668,7 +668,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/kPEPE5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -679,7 +679,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/ZEC5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -690,7 +690,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:GOLD3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -701,7 +701,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SILVER5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -712,7 +712,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/FARTCOIN5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -723,7 +723,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/DOGE5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -745,7 +745,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/ETH3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -756,7 +756,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CBRS3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -767,7 +767,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/LIT2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -789,7 +789,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:BRENTOIL3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -811,7 +811,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/PAXG3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -822,7 +822,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/SOL3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -833,7 +833,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/ETH5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -844,7 +844,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:BRENTOIL2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -855,7 +855,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:BRENTOIL2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -866,7 +866,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/LIT3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -877,7 +877,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:BB2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -888,7 +888,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SP5003S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -899,7 +899,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/DOGE2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -910,7 +910,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/ETH5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -921,7 +921,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:TSLA5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -932,7 +932,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:XYZ1005L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -943,7 +943,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/SOL5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -965,7 +965,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/ZEC2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -976,7 +976,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/LIT3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -998,7 +998,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/FARTCOIN3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1020,7 +1020,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:NVDA5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1031,7 +1031,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/NEAR3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1042,7 +1042,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/BTC3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1053,7 +1053,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:XYZ1003S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1064,7 +1064,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CBRS5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1075,7 +1075,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CL3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1086,7 +1086,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:XYZ1003L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1119,7 +1119,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/kPEPE2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1130,7 +1130,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/SOL5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1141,7 +1141,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SILVER2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1185,7 +1185,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CL5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1196,7 +1196,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SPCX2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1207,7 +1207,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:BB3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1218,7 +1218,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/FARTCOIN5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1229,7 +1229,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/DOGE5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1251,7 +1251,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:XYZ1005S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1273,7 +1273,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/HYPE3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1284,7 +1284,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CL2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1306,7 +1306,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CBRS2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1317,7 +1317,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:BB5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1339,7 +1339,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:XYZ1002L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1350,7 +1350,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/ZEC3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1361,7 +1361,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/BTC2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1383,7 +1383,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SILVER3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1405,7 +1405,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/DOGE2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1438,7 +1438,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:TSLA2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1449,7 +1449,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/BTC2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1460,7 +1460,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/PAXG5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1482,7 +1482,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:BRENTOIL3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1493,7 +1493,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:NVDA5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1504,7 +1504,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/FARTCOIN2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1537,7 +1537,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:GOLD3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1548,7 +1548,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/ZEC2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1570,7 +1570,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SP5003L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1592,7 +1592,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/ETH3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1614,7 +1614,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/PAXG2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1625,7 +1625,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/HYPE2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1636,7 +1636,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/kPEPE5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1647,7 +1647,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CL2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1658,7 +1658,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/BTC5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1669,7 +1669,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/HYPE1S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1702,7 +1702,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/ZEC3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1724,7 +1724,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:TSLA3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1757,7 +1757,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/SOL2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1779,7 +1779,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/PAXG2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1790,7 +1790,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/NEAR3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1812,7 +1812,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/NEAR2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1823,7 +1823,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/LIT2S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1856,7 +1856,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/NEAR5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1867,7 +1867,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:TSLA3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1889,7 +1889,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:BB5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1900,7 +1900,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:GOLD2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1911,7 +1911,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/kPEPE2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1922,7 +1922,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/FARTCOIN3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1933,7 +1933,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SILVER3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1944,7 +1944,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CBRS3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1966,7 +1966,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/SOL3S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1977,7 +1977,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/PAXG5L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -1999,7 +1999,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SPCX2L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -2010,7 +2010,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SPCX3L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -2021,7 +2021,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:BRENTOIL5S.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
@@ -2032,7 +2032,7 @@
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SP5005L.png",
       "tags": [
-        "leveraged"
+        "bounce"
       ]
     },
     {
