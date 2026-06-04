@@ -1,7 +1,8 @@
 # alt.fun Token List
 
 Automated [Uniswap Token List](https://github.com/Uniswap/token-lists) of **graduated**
-[alt.fun](https://alt.fun) tokens tradable on Hyperswap (HyperEVM, chainId `999`).
+[alt.fun](https://alt.fun) tokens tradable on Hyperswap (HyperEVM, chainId `999`), plus
+leveraged tokens from [Bounce.tech](https://bounce.tech).
 
 > This repository contains **only the generated `tokenlist.json`**. It is produced and
 > committed automatically by a scheduled indexer (separate repository) — **do not edit
@@ -18,6 +19,8 @@ limits and a few minutes of cache.
 
 ## What gets indexed
 
+### Alt.fun graduated tokens
+
 The indexer paginates the alt.fun public API for graduated tokens:
 
 ```
@@ -33,7 +36,19 @@ A token is included in the list **only if both**:
 
 Tokens missing either are skipped entirely.
 
+### Bounce leveraged-tokens
+
+The indexer also fetches all leveraged-tokens from the Bounce API:
+
+```
+GET https://api.alt.fun/api/v1/assets/leveraged-tokens
+```
+
+All tokens from this endpoint are included (no additional filters).
+
 ## Where each field comes from
+
+### Alt.fun tokens
 
 | Field      | Source                                                    |
 |------------|-----------------------------------------------------------|
@@ -43,20 +58,36 @@ Tokens missing either are skipped entirely.
 | `symbol`   | **on-chain** `symbol()`                                   |
 | `decimals` | **on-chain** `decimals()`                                 |
 | `logoURI`  | `https://api.alt.fun` + alt.fun `imageUrl`                |
-| `tags`     | `["altfun"]` — every token carries the `altfun` tag       |
+| `tags`     | `["altfun"]`                                              |
 
 `name`, `symbol` and `decimals` are read **on-chain** from each ERC-20 contract (batched via
 Multicall3 on HyperEVM), not taken from the API — so the list reflects the contract's truth.
 A token whose on-chain read fails is excluded from that run.
 
+### Bounce leveraged-tokens
+
+| Field      | Source                                                           |
+|------------|------------------------------------------------------------------|
+| `chainId`  | `999` (HyperEVM mainnet)                                          |
+| `address`  | Bounce API `address`, checksummed (EIP-55)                       |
+| `name`     | Bounce API `name` (e.g. "ETH 3x Long")                            |
+| `symbol`   | Bounce API `symbol` (e.g. "ETH3L")                                |
+| `decimals` | Bounce API `decimals`                                             |
+| `logoURI`  | `https://bounce.tech/leveraged-tokens/{symbol}.png`              |
+| `tags`     | `["bounce"]`                                                      |
+
 ## Tags
 
-The list defines a single tag at the top level (Uniswap Token List standard), and every
-token references it:
+The list defines tags at the top level (Uniswap Token List standard):
 
 ```json
-"tags": { "altfun": { "name": "alt.fun", "description": "Token graduated on alt.fun" } }
+"tags": {
+  "altfun": { "name": "alt.fun", "description": "Token graduated on alt.fun" },
+  "bounce": { "name": "Bounce", "description": "Leveraged token from Bounce" }
+}
 ```
+
+Tokens carry the appropriate tag(s) to indicate their source.
 
 ## Format & update policy
 
@@ -68,7 +99,9 @@ token references it:
 - A safety guardrail refuses to publish an empty or drastically shrunken list (e.g. if the
   upstream API changes shape), to protect consumers from a broken feed.
 
-## Example entry
+## Example entries
+
+### Alt.fun token
 
 ```json
 {
@@ -79,5 +112,19 @@ token references it:
   "decimals": 18,
   "logoURI": "https://api.alt.fun/images/tokens/5e8d089a-...-hyperbald-banner.webp",
   "tags": ["altfun"]
+}
+```
+
+### Bounce leveraged-token
+
+```json
+{
+  "chainId": 999,
+  "address": "0x6019caD7d5A8D4d90eCed36576d23F6198aed156",
+  "name": "ETH 3x Long",
+  "symbol": "ETH3L",
+  "decimals": 18,
+  "logoURI": "https://bounce.tech/leveraged-tokens/ETH3L.png",
+  "tags": ["bounce"]
 }
 ```
