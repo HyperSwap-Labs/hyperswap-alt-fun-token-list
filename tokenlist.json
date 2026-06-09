@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-06-03T14:50:34.253Z",
+  "timestamp": "2026-06-09T16:02:24.450Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "keywords": [
     "altfun",
@@ -266,6 +266,17 @@
     },
     {
       "chainId": 999,
+      "address": "0x1bbc42A6C72d0878f918Bb9258d40bbD76a49d89",
+      "name": "xyz:MU 3x Short",
+      "symbol": "xyz:MU3S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:MU3S.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0x1BE10C62e03640D0DDD935A3c9349F8907640a30",
       "name": "xyz:BB 2x Short",
       "symbol": "xyz:BB2S",
@@ -420,6 +431,28 @@
     },
     {
       "chainId": 999,
+      "address": "0x2c28cC36a58dFDC3a6A73B430b042AD7B2b1b96e",
+      "name": "xyz:MU 5x Short",
+      "symbol": "xyz:MU5S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:MU5S.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x2c5028176B942a5dfCFDC741f8F13f85722eB5Bd",
+      "name": "xyz:MU 2x Short",
+      "symbol": "xyz:MU2S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:MU2S.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0x2d76E327AEFdF665b8c3B7EcD017021c90d14F2F",
       "name": "NEAR 5x Short",
       "symbol": "NEAR5S",
@@ -524,6 +557,17 @@
       "symbol": "xyz:GOLD2S",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:GOLD2S.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x3e7864b33D336dFF6E18a2DEa6F50D78d4621fDd",
+      "name": "xyz:MU 3x Long",
+      "symbol": "xyz:MU3L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:MU3L.png",
       "tags": [
         "bounce"
       ]
@@ -1063,6 +1107,28 @@
       "symbol": "xyz:CBRS5L",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CBRS5L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x80bEf304Aa8A8e7Be75b9C11e6e13dDf49BDbffb",
+      "name": "xyz:MU 5x Long",
+      "symbol": "xyz:MU5L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:MU5L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x832bd9D809248e575C75e985fae8e27Eef4d93D7",
+      "name": "xyz:MU 2x Long",
+      "symbol": "xyz:MU2L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:MU2L.png",
       "tags": [
         "bounce"
       ]
