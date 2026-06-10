@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-06-09T16:02:24.450Z",
+  "timestamp": "2026-06-10T12:01:29.682Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "keywords": [
     "altfun",
@@ -1910,6 +1910,17 @@
       "symbol": "Nasdaq",
       "decimals": 18,
       "logoURI": "https://api.alt.fun/images/tokens/0116118c-2b35-456d-91a6-725d992a846c-ScreenShot_2026-05-15_151340_196.png",
+      "tags": [
+        "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xE28995dE0f668e8511a3222A4a8EFa2f9B500000",
+      "name": "HYPERZECLIQUID",
+      "symbol": "HyperZEC",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/3db90dfd-4962-42d9-aac5-c33bb36fb8ac-37f6065e-bf9e-48c5-88a0-fd1ce551de2f-B2963AB1-FB07-4AD1-A609-0547BBC3863A.png",
       "tags": [
         "altfun"
       ]
