@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-06-10T12:01:29.682Z",
+  "timestamp": "2026-06-23T12:04:08.466Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "keywords": [
     "altfun",
@@ -1333,6 +1333,17 @@
     },
     {
       "chainId": 999,
+      "address": "0x99bf53aC7320F057Cca3e4757ee4991768d78e79",
+      "name": "xyz:SPCX 5x Long",
+      "symbol": "xyz:SPCX5L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SPCX5L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0x9A51b0DC3545cb8e9b0382b42c91F9e39a92eFD6",
       "name": "HYPE 3x Long",
       "symbol": "HYPE3L",
@@ -2020,6 +2031,17 @@
       "symbol": "xyz:CBRS3L",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CBRS3L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xf1E2486B9ff7D649F245abdFd6B4e5Cde545fD29",
+      "name": "xyz:SPCX 5x Short",
+      "symbol": "xyz:SPCX5S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SPCX5S.png",
       "tags": [
         "bounce"
       ]
