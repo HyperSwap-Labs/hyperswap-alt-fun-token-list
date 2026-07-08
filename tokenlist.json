@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-06-23T12:04:08.466Z",
+  "timestamp": "2026-07-08T12:04:05.302Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   },
   "keywords": [
     "altfun",
@@ -431,6 +431,17 @@
     },
     {
       "chainId": 999,
+      "address": "0x2BBFb5300F732bcacA1fe5489F6c84c01c94b2E7",
+      "name": "xyz:SKHX 2x Long",
+      "symbol": "xyz:SKHX2L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SKHX2L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0x2c28cC36a58dFDC3a6A73B430b042AD7B2b1b96e",
       "name": "xyz:MU 5x Short",
       "symbol": "xyz:MU5S",
@@ -700,6 +711,17 @@
       "symbol": "PAXG3S",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/PAXG3S.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x509ED701F7F6b1481B690F8a7d5b5c0556EDdf4f",
+      "name": "xyz:SKHX 3x Short",
+      "symbol": "xyz:SKHX3S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SKHX3S.png",
       "tags": [
         "bounce"
       ]
@@ -1091,6 +1113,17 @@
     },
     {
       "chainId": 999,
+      "address": "0x7c99668c65efa930f9F53F3A856649c9b3018Ba4",
+      "name": "xyz:SKHX 5x Short",
+      "symbol": "xyz:SKHX5S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SKHX5S.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0x7Db3A92eAc6B05e1a22D22cF2f73902d7C447eCd",
       "name": "xyz:XYZ100 3x Short",
       "symbol": "xyz:XYZ1003S",
@@ -1107,6 +1140,17 @@
       "symbol": "xyz:CBRS5L",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CBRS5L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x7Ed943cD78Dfe5028346DdD28A76F5CE296fA206",
+      "name": "xyz:SKHX 2x Short",
+      "symbol": "xyz:SKHX2S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SKHX2S.png",
       "tags": [
         "bounce"
       ]
@@ -1619,6 +1663,17 @@
     },
     {
       "chainId": 999,
+      "address": "0xB28B719fc754205F9EdbB86351934D6Da259ff58",
+      "name": "xyz:SKHX 5x Long",
+      "symbol": "xyz:SKHX5L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SKHX5L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0xb3DfAbFd7C7ad5fbfc8614a863aCB333275F2aa2",
       "name": "ZEC 2x Short",
       "symbol": "ZEC2S",
@@ -2042,6 +2097,17 @@
       "symbol": "xyz:SPCX5S",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SPCX5S.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xf3bF36A380413b848b1742BdA2F1559e86F00919",
+      "name": "xyz:SKHX 3x Long",
+      "symbol": "xyz:SKHX3L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SKHX3L.png",
       "tags": [
         "bounce"
       ]
