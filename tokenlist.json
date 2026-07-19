@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-07-08T12:04:05.302Z",
+  "timestamp": "2026-07-19T14:04:04.671Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 5
+    "patch": 6
   },
   "keywords": [
     "altfun",
@@ -106,6 +106,17 @@
       "symbol": "invest",
       "decimals": 18,
       "logoURI": "https://api.alt.fun/images/tokens/790ee5c7-d658-40f9-b141-98119c2315f7-3807c31217055a97964ce08e9b9d37875a7db3d8d50d6325b36abf4849c6c48d.png",
+      "tags": [
+        "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x05Da17F09E457231E236626275c04eEA9b800000",
+      "name": "Serenity",
+      "symbol": "SEREN",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/e30df39a-0ae4-4a80-b45e-f799394f2db8-Screenshot-2026-07-19-at-14.05.59.png",
       "tags": [
         "altfun"
       ]
