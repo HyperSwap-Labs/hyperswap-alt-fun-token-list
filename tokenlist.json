@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-07-19T14:04:04.671Z",
+  "timestamp": "2026-08-05T14:02:24.963Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 6
+    "patch": 7
   },
   "keywords": [
     "altfun",
@@ -427,6 +427,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:NVDA2L.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x2b6A33F244154bb1304984495B95b61eF8000000",
+      "name": "tinyhypurrcathypiollumeownatipip",
+      "symbol": "Drip",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/eb868da2-4071-4f0d-ba7b-7009a54904d7-sdsdd.png",
+      "tags": [
+        "altfun"
       ]
     },
     {
