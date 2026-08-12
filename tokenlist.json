@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-08-05T14:02:24.963Z",
+  "timestamp": "2026-08-12T10:00:20.449Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 7
+    "patch": 8
   },
   "keywords": [
     "altfun",
@@ -409,6 +409,17 @@
     },
     {
       "chainId": 999,
+      "address": "0x27997AED5B57a4fBd91589938E4c2001a01D4622",
+      "name": "xyz:CXMT 3x Short",
+      "symbol": "xyz:CXMT3S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CXMT3S.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0x2a3469759b4D4eFa41F426f89C864Ae8a19f29E5",
       "name": "xyz:NVDA 2x Short",
       "symbol": "xyz:NVDA2S",
@@ -788,6 +799,17 @@
       "symbol": "xyz:SILVER5L",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SILVER5L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x5643F40444d27B3C3bBC038eeCFea1146A2De029",
+      "name": "xyz:CXMT 2x Short",
+      "symbol": "xyz:CXMT2S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CXMT2S.png",
       "tags": [
         "bounce"
       ]
@@ -1542,6 +1564,17 @@
     },
     {
       "chainId": 999,
+      "address": "0xa3Fb5052F9149843192D756a74a19b602c5188E0",
+      "name": "xyz:CXMT 3x Long",
+      "symbol": "xyz:CXMT3L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CXMT3L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0xA432e77Ee0685857057D225d340A4178c9eCc54e",
       "name": "DOGE 2x Short",
       "symbol": "DOGE2S",
@@ -1905,6 +1938,28 @@
     },
     {
       "chainId": 999,
+      "address": "0xcb3C5B38c9A445a69e1c797bcf61902FbAeB0D39",
+      "name": "xyz:CXMT 5x Long",
+      "symbol": "xyz:CXMT5L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CXMT5L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xd207c6ad3967C5739fe0c0500bea6E52B8e8F251",
+      "name": "xyz:CXMT 5x Short",
+      "symbol": "xyz:CXMT5S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CXMT5S.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0xd29f674061208214330a86554E841eaC5F74CB79",
       "name": "SOL 2x Long",
       "symbol": "SOL2L",
@@ -1956,6 +2011,17 @@
       "logoURI": "https://api.alt.fun/images/tokens/62727424-5043-4fdd-88ed-4619cd70b6c7-hacker-mask-icon-free-vector.webp",
       "tags": [
         "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xDC9E6775ebaD67C9BA673967F90e0fA007722ea0",
+      "name": "xyz:CXMT 2x Long",
+      "symbol": "xyz:CXMT2L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CXMT2L.png",
+      "tags": [
+        "bounce"
       ]
     },
     {
