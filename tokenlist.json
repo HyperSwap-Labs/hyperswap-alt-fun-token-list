@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-08-12T10:00:20.449Z",
+  "timestamp": "2026-08-19T20:03:12.940Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 8
+    "patch": 9
   },
   "keywords": [
     "altfun",
@@ -2108,6 +2108,17 @@
       "symbol": "HYPEgo500",
       "decimals": 18,
       "logoURI": "https://api.alt.fun/images/tokens/0fe4cc0a-39cb-4b29-88c3-29fc98d9dc4f-044C4231-F73A-438F-AB26-D8B732B5AF8D.png",
+      "tags": [
+        "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xE5700a5cBf866E0850BE459B006E1eD7f3800000",
+      "name": "MHGA",
+      "symbol": "MHGA",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/836f9b7d-c95d-4e37-823c-27f7d860292a-eb1d3e5a-a964-473a-be6a-1c546fb7d38e-1.png",
       "tags": [
         "altfun"
       ]
