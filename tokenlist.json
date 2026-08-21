@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-08-20T10:01:41.425Z",
+  "timestamp": "2026-08-21T06:03:45.209Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 10
+    "patch": 11
   },
   "keywords": [
     "altfun",
@@ -691,6 +691,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SILVER5S.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x47ED75d2Ef6006F1B8d4428aBfd84F0B67400000",
+      "name": "超牛",
+      "symbol": "超牛",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/59fa8f7f-6703-4930-8d5b-bef69ac5c4a6-C913ED4F-196D-4299-B4E1-2903A4F97005.png",
+      "tags": [
+        "altfun"
       ]
     },
     {
