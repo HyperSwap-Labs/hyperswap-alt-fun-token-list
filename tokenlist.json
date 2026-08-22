@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-08-22T16:01:00.768Z",
+  "timestamp": "2026-08-22T18:04:08.218Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 12
+    "patch": 13
   },
   "keywords": [
     "altfun",
@@ -42,6 +42,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/kPEPE3S.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x02d595583721128dA2DBDf9DaF730d2b35500000",
+      "name": "Hyperliquid Water",
+      "symbol": "HL",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/93b1d54e-5b9e-4c6a-9608-6e0b54c77282-Zrzut-ekranu-2026-08-22-191847.png",
+      "tags": [
+        "altfun"
       ]
     },
     {
