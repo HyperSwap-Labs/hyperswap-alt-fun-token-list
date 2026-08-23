@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-08-23T16:01:02.226Z",
+  "timestamp": "2026-08-23T20:04:23.574Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 22
+    "patch": 23
   },
   "keywords": [
     "altfun",
@@ -251,6 +251,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/FARTCOIN2L.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x1041327E452C60ce3f16616fDd5C0befDe000000",
+      "name": "Hyperliquidated",
+      "symbol": "HL",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/897ddae7-9b20-4b79-a98b-5f5f6b295e04-81pyFZ7HJTgihXH9D7wdRFhT92hfnyvat3R8d9SAowSq.png",
+      "tags": [
+        "altfun"
       ]
     },
     {
@@ -1989,6 +2000,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/HYPE1S.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xC0ea43b7C8F704eA17a9EB232800090743800000",
+      "name": "stockcoin",
+      "symbol": "stockcoin",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/9035f267-7e59-4abb-902b-e713b43b8788-photo_2569-08-23-18.17.48.webp",
+      "tags": [
+        "altfun"
       ]
     },
     {
