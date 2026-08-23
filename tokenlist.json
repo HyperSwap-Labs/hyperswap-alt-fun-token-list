@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-08-23T10:08:05.764Z",
+  "timestamp": "2026-08-23T12:04:50.267Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 19
+    "patch": 20
   },
   "keywords": [
     "altfun",
@@ -777,6 +777,17 @@
       "symbol": "SMIRK",
       "decimals": 18,
       "logoURI": "https://api.alt.fun/images/tokens/569a6465-2798-4139-a058-1bb56bdbb23d-73325fac-8230-4a2d-aea4-032ddcb3b646.png",
+      "tags": [
+        "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x4BF8B8fe4dE6B680C19d79580dC9f5b2F0000000",
+      "name": "Decentralized Nasdaq",
+      "symbol": "DNDX",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/608bb515-e7b5-48a1-9df9-1e61d28e4d37-telegram-cloud-photo-size-1-5021980735682227960-x.webp",
       "tags": [
         "altfun"
       ]
