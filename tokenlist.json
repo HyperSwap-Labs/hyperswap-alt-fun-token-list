@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-08-23T04:00:59.277Z",
+  "timestamp": "2026-08-23T06:01:30.500Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 16
+    "patch": 17
   },
   "keywords": [
     "altfun",
@@ -2330,6 +2330,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/SOL3S.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xf7d75f05537D430F57ca7DbEa0375DB08cC00000",
+      "name": "longcat",
+      "symbol": "longcat",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/c4637b98-8bc7-42e8-b30e-ddebb1884f51-longcat.jpg",
+      "tags": [
+        "altfun"
       ]
     },
     {
