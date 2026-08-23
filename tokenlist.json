@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-08-23T06:01:30.500Z",
+  "timestamp": "2026-08-23T08:04:44.590Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 17
+    "patch": 18
   },
   "keywords": [
     "altfun",
@@ -392,17 +392,6 @@
       "symbol": "AURA",
       "decimals": 18,
       "logoURI": "https://api.alt.fun/images/tokens/2e513957-615d-4ea3-951c-c547214d57ea-dcd5472d-8799-4a4c-821a-20c546cc2503.png",
-      "tags": [
-        "altfun"
-      ]
-    },
-    {
-      "chainId": 999,
-      "address": "0x1e4ECd078b00AFc6e037ACC41ad31CD047900000",
-      "name": "Bagels",
-      "symbol": "Bagels",
-      "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/854899d9-41a6-45d6-b13c-6deb02db6ab1-image.png",
       "tags": [
         "altfun"
       ]
@@ -1487,17 +1476,6 @@
     },
     {
       "chainId": 999,
-      "address": "0x92B26f1EAeb81749Dfb0cC4c1bB46A1970000000",
-      "name": "FAT NEKO",
-      "symbol": "FATNEKO",
-      "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/d52b0183-5e6a-447b-a29a-6ce04fc30678-FAT-NEKO-logo.png",
-      "tags": [
-        "altfun"
-      ]
-    },
-    {
-      "chainId": 999,
       "address": "0x97dd340c112B78303e77aC4fc0d07589bCE7bcfc",
       "name": "xyz:XYZ100 5x Short",
       "symbol": "xyz:XYZ1005S",
@@ -2037,6 +2015,17 @@
     },
     {
       "chainId": 999,
+      "address": "0xC914B558308cfEE6d5Cd21DD26378D72F4200000",
+      "name": "Shartcoin",
+      "symbol": "Shart",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/de7d14ba-98b3-439c-b128-f2ffaebacc27-f18fef29-5188-4463-8cc9-6a5282bae0f9.png",
+      "tags": [
+        "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0xcb3C5B38c9A445a69e1c797bcf61902FbAeB0D39",
       "name": "xyz:CXMT 5x Long",
       "symbol": "xyz:CXMT5L",
@@ -2143,6 +2132,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/LIT2S.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xE0BA52d180fA09b9dcE6D92bEE0bdEEEEC000000",
+      "name": "HYPE LIFE",
+      "symbol": "HYPE人生",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/f55d0b1b-e155-489e-a4d5-8ad9f4b360bf-ScreenShot_2026-05-15_122248_544.png",
+      "tags": [
+        "altfun"
       ]
     },
     {
@@ -2400,6 +2400,17 @@
     },
     {
       "chainId": 999,
+      "address": "0xfE03fe45358Ec4aEdF6d1C3D245052dAE8000000",
+      "name": "Unstable Hype Coin",
+      "symbol": "USDH",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/11c8f77f-763e-4131-8494-b5a5a47ef7e5-photo_2026-05-15_22-10-47.jpg",
+      "tags": [
+        "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0xFE7dc5e224DDD9a21CF30975Cae5A09050A89391",
       "name": "xyz:SP500 5x Long",
       "symbol": "xyz:SP5005L",
@@ -2416,6 +2427,17 @@
       "symbol": "BOOMER",
       "decimals": 18,
       "logoURI": "https://api.alt.fun/images/tokens/18527c6c-7c8d-4706-9c41-b182ea3214b5-boomer.jpg",
+      "tags": [
+        "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xff952e9CFC8B0490F33896A59575D11B49000000",
+      "name": "Jeffs Dog",
+      "symbol": "MAX",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/f332275d-3f3f-4f84-ba34-620d7af38bb8-jeffdog.jpeg",
       "tags": [
         "altfun"
       ]
