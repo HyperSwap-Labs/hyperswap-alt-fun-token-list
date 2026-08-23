@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-08-23T00:03:37.075Z",
+  "timestamp": "2026-08-23T02:00:51.540Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 14
+    "patch": 15
   },
   "keywords": [
     "altfun",
@@ -427,6 +427,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CBRS2S.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x262Eb17b147a95456BD81B23593747dEcCF00000",
+      "name": "cat coin",
+      "symbol": "catcoin",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/90d4711a-1e15-41d8-8598-03d843be982f-catcoin.png",
+      "tags": [
+        "altfun"
       ]
     },
     {
