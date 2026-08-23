@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-08-23T14:03:45.812Z",
+  "timestamp": "2026-08-23T16:01:02.226Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 21
+    "patch": 22
   },
   "keywords": [
     "altfun",
@@ -398,6 +398,17 @@
     },
     {
       "chainId": 999,
+      "address": "0x1e4ECd078b00AFc6e037ACC41ad31CD047900000",
+      "name": "Bagels",
+      "symbol": "Bagels",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/854899d9-41a6-45d6-b13c-6deb02db6ab1-image.png",
+      "tags": [
+        "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0x1Fca0F7D310E3D3eDCe3B13B57ba3885f9000000",
       "name": "Gold",
       "symbol": "XAU",
@@ -662,6 +673,17 @@
     },
     {
       "chainId": 999,
+      "address": "0x357fd57E58b2c8cE86D833E793Ff5c0398800000",
+      "name": "bugcat capoo",
+      "symbol": "bugcat",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/741a0d09-5ece-400e-afa9-1a0e1a900ae9-IMG_3705.jpeg",
+      "tags": [
+        "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0x3e7864b33D336dFF6E18a2DEa6F50D78d4621fDd",
       "name": "xyz:MU 3x Long",
       "symbol": "xyz:MU3L",
@@ -777,17 +799,6 @@
       "symbol": "SMIRK",
       "decimals": 18,
       "logoURI": "https://api.alt.fun/images/tokens/569a6465-2798-4139-a058-1bb56bdbb23d-73325fac-8230-4a2d-aea4-032ddcb3b646.png",
-      "tags": [
-        "altfun"
-      ]
-    },
-    {
-      "chainId": 999,
-      "address": "0x4BF8B8fe4dE6B680C19d79580dC9f5b2F0000000",
-      "name": "Decentralized Nasdaq",
-      "symbol": "DNDX",
-      "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/608bb515-e7b5-48a1-9df9-1e61d28e4d37-telegram-cloud-photo-size-1-5021980735682227960-x.webp",
       "tags": [
         "altfun"
       ]
@@ -948,11 +959,11 @@
     },
     {
       "chainId": 999,
-      "address": "0x5ceD801526221C843db08Ea0A08b1932C2000000",
-      "name": "ELON COIN",
-      "symbol": "ELON",
+      "address": "0x5F297F01d81ebE55f21d7B6a805C544CE9300000",
+      "name": "House Of Finance",
+      "symbol": "HOUSE",
       "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/766656bf-a5c2-4b99-b88f-37270cb8863b-photo_2026-05-15_20-57-23.jpg",
+      "logoURI": "https://api.alt.fun/images/tokens/0295d7ba-faa2-498d-b286-95d596a04316-ed790be2-d8ef-4ebc-8c49-872189b672f0.png",
       "tags": [
         "altfun"
       ]
@@ -1498,6 +1509,17 @@
     },
     {
       "chainId": 999,
+      "address": "0x92B26f1EAeb81749Dfb0cC4c1bB46A1970000000",
+      "name": "FAT NEKO",
+      "symbol": "FATNEKO",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/d52b0183-5e6a-447b-a29a-6ce04fc30678-FAT-NEKO-logo.png",
+      "tags": [
+        "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0x97dd340c112B78303e77aC4fc0d07589bCE7bcfc",
       "name": "xyz:XYZ100 5x Short",
       "symbol": "xyz:XYZ1005S",
@@ -1740,6 +1762,17 @@
     },
     {
       "chainId": 999,
+      "address": "0xAC20Ba19e1c120C3C8a9e82d9B5a640ee6A00000",
+      "name": "Jeff's basement coin",
+      "symbol": "basement",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/a08ebbef-ca82-4e30-80a9-f6acc034ac82-basement.webp",
+      "tags": [
+        "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0xad00064EaFf2F497c3CE28Bd4EeB4cF5c0000000",
       "name": "War",
       "symbol": "WAR",
@@ -1780,17 +1813,6 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/FARTCOIN2S.png",
       "tags": [
         "bounce"
-      ]
-    },
-    {
-      "chainId": 999,
-      "address": "0xaEF8c9789418293b504508536cB95C91e0000000",
-      "name": "The Big Short",
-      "symbol": "TBS",
-      "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/ff751504-e946-4f5c-bb36-8fed5f8f0971-river.png",
-      "tags": [
-        "altfun"
       ]
     },
     {
@@ -2180,17 +2202,6 @@
     },
     {
       "chainId": 999,
-      "address": "0xE0BA52d180fA09b9dcE6D92bEE0bdEEEEC000000",
-      "name": "HYPE LIFE",
-      "symbol": "HYPE人生",
-      "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/f55d0b1b-e155-489e-a4d5-8ad9f4b360bf-ScreenShot_2026-05-15_122248_544.png",
-      "tags": [
-        "altfun"
-      ]
-    },
-    {
-      "chainId": 999,
       "address": "0xE0ee45a1Ef459144E20010e7b1f004BA41000000",
       "name": "XYZ100",
       "symbol": "Nasdaq",
@@ -2460,17 +2471,6 @@
       "symbol": "BOOMER",
       "decimals": 18,
       "logoURI": "https://api.alt.fun/images/tokens/18527c6c-7c8d-4706-9c41-b182ea3214b5-boomer.jpg",
-      "tags": [
-        "altfun"
-      ]
-    },
-    {
-      "chainId": 999,
-      "address": "0xff952e9CFC8B0490F33896A59575D11B49000000",
-      "name": "Jeffs Dog",
-      "symbol": "MAX",
-      "decimals": 18,
-      "logoURI": "https://api.alt.fun/images/tokens/f332275d-3f3f-4f84-ba34-620d7af38bb8-jeffdog.jpeg",
       "tags": [
         "altfun"
       ]
