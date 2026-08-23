@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-08-23T02:00:51.540Z",
+  "timestamp": "2026-08-23T04:00:59.277Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 15
+    "patch": 16
   },
   "keywords": [
     "altfun",
@@ -196,6 +196,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SPCX3S.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x0A0379130ED16242AA5A45C933BbceD95E000000",
+      "name": "ALTCOIN",
+      "symbol": "ALTCOIN",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/94ebed2b-80ca-4d9c-b7ed-92f9d1e9812e-image.png",
+      "tags": [
+        "altfun"
       ]
     },
     {
@@ -416,6 +427,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/BTC3S.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x229EB8433fe85caE64ee29F88B18B40D14600000",
+      "name": "gmeow",
+      "symbol": "gmeow",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/f20da15f-30aa-49df-b6a5-8980d686b8c3-ec25382c-52d6-433e-b743-9fabc14f7ba4.png",
+      "tags": [
+        "altfun"
       ]
     },
     {
@@ -755,6 +777,17 @@
       "symbol": "STONKS",
       "decimals": 18,
       "logoURI": "https://api.alt.fun/images/tokens/f14a0e08-48ec-4870-a5fc-94bae47a6484-images.jpg",
+      "tags": [
+        "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x4988614fFCaD122d4F0E4e711740edA294400000",
+      "name": "Michael Selig",
+      "symbol": "SMIRK",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/569a6465-2798-4139-a058-1bb56bdbb23d-73325fac-8230-4a2d-aea4-032ddcb3b646.png",
       "tags": [
         "altfun"
       ]
