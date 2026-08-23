@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-08-23T12:04:50.267Z",
+  "timestamp": "2026-08-23T14:03:45.812Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 20
+    "patch": 21
   },
   "keywords": [
     "altfun",
@@ -933,6 +933,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/DOGE5S.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x5ceD801526221C843db08Ea0A08b1932C2000000",
+      "name": "ELON COIN",
+      "symbol": "ELON",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/766656bf-a5c2-4b99-b88f-37270cb8863b-photo_2026-05-15_20-57-23.jpg",
+      "tags": [
+        "altfun"
       ]
     },
     {
