@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-08-22T18:04:08.218Z",
+  "timestamp": "2026-08-23T00:03:37.075Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 13
+    "patch": 14
   },
   "keywords": [
     "altfun",
@@ -306,6 +306,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:MU3S.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x1Bc6B3a0D27852211dA8Ff6d3e8CF3C92Ac00000",
+      "name": "Internet For Money",
+      "symbol": "IFM",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/33367483-84b4-4f01-a00c-f7ac8ec520bf-IFM.png",
+      "tags": [
+        "altfun"
       ]
     },
     {
