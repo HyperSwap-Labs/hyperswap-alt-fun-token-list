@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-08-25T16:04:33.895Z",
+  "timestamp": "2026-08-26T20:04:40.388Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 24
+    "patch": 25
   },
   "keywords": [
     "altfun",
@@ -211,6 +211,17 @@
     },
     {
       "chainId": 999,
+      "address": "0x0A5476DD775aFbb2D7Bbab9c2BB8B34616900000",
+      "name": "PUMPURR",
+      "symbol": "PUMPURR",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/a30fab90-bf30-4732-aa5d-694e29fd3138-pfp-twitter.webp",
+      "tags": [
+        "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0x0B48792E08a6EfeD3166765Fc9CF91ACBD200000",
       "name": "hypecat",
       "symbol": "hypecat",
@@ -227,6 +238,17 @@
       "symbol": "xyz:SILVER2S",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SILVER2S.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x0e31e80976876FA40f15FA2C2B195820Ba0b214d",
+      "name": "PUMP 3x Short",
+      "symbol": "PUMP3S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/PUMP3S.png",
       "tags": [
         "bounce"
       ]
@@ -315,6 +337,28 @@
       "symbol": "HYPE5L",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/HYPE5L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x1aaAD0C1f100300Ce67D3c0a65448561550a1b05",
+      "name": "PUMP 3x Long",
+      "symbol": "PUMP3L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/PUMP3L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x1b8302D8F16C7DDF09F7AAc49899166bBF8C2B6D",
+      "name": "PUMP 2x Short",
+      "symbol": "PUMP2S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/PUMP2S.png",
       "tags": [
         "bounce"
       ]
@@ -860,6 +904,17 @@
     },
     {
       "chainId": 999,
+      "address": "0x4f16A14D9f1DA9a4d3EA55575d7a67590c300000",
+      "name": "HYPERPUMP",
+      "symbol": "HYPERPUMP",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/54bc65ee-dea8-4abd-bcf8-d896a2ed7abe-693bd41b-c548-44a7-ba5a-eedd47ea6510.png",
+      "tags": [
+        "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0x4f22EaD4a6eFe62F03952b43710ed82ddD7c8eb9",
       "name": "PAXG 3x Short",
       "symbol": "PAXG3S",
@@ -1096,6 +1151,17 @@
       "symbol": "xyz:BRENTOIL2L",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:BRENTOIL2L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x69Ae2e77BF2a43Cbfb3A88b53B67DaFEdE2DaacC",
+      "name": "PUMP 2x Long",
+      "symbol": "PUMP2L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/PUMP2L.png",
       "tags": [
         "bounce"
       ]
@@ -1415,6 +1481,17 @@
       "symbol": "kPEPE2S",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/kPEPE2S.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x87Ea10D0Be3994f63EB407013A53551f34d93192",
+      "name": "PUMP 5x Short",
+      "symbol": "PUMP5S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/PUMP5S.png",
       "tags": [
         "bounce"
       ]
@@ -2350,6 +2427,17 @@
       "symbol": "xyz:SILVER3L",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:SILVER3L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xF0f2005908D9d865058b998b464033ec4ee2E7F0",
+      "name": "PUMP 5x Long",
+      "symbol": "PUMP5L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/PUMP5L.png",
       "tags": [
         "bounce"
       ]
