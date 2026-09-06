@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-09-06T12:03:03.309Z",
+  "timestamp": "2026-09-06T20:04:31.396Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 26
+    "patch": 27
   },
   "keywords": [
     "altfun",
@@ -2363,6 +2363,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:TSLA3L.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xe4aAB2bB9ebfA9Decc9D1Ec65ECE8A3d5d800000",
+      "name": "PURRIVACY",
+      "symbol": "PURRIVACY",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/454fc6ac-f2ac-42b1-98bc-f9c72d236ade-purrzcat.png",
+      "tags": [
+        "altfun"
       ]
     },
     {
