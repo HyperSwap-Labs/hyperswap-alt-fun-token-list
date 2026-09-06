@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-08-26T20:04:40.388Z",
+  "timestamp": "2026-09-06T12:03:03.309Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 25
+    "patch": 26
   },
   "keywords": [
     "altfun",
@@ -1899,6 +1899,17 @@
       "symbol": "xyz:NVDA5L",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:NVDA5L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xAe65e3C8903DDA957242E8Ea03c4DDda97DEF313",
+      "name": "PONS 1x Short",
+      "symbol": "PONS1S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/PONS1S.png",
       "tags": [
         "bounce"
       ]
