@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-09-06T20:04:31.396Z",
+  "timestamp": "2026-09-13T20:04:53.908Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 27
+    "patch": 28
   },
   "keywords": [
     "altfun",
@@ -2066,6 +2066,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/kPEPE5L.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xbB68ede3080959b12d604F656c1194701B000000",
+      "name": "Yen",
+      "symbol": "Yen",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/6e224779-d576-44a7-97c8-5182fe615a52-image_1779063303261611.jpg",
+      "tags": [
+        "altfun"
       ]
     },
     {
