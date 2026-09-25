@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-09-13T20:04:53.908Z",
+  "timestamp": "2026-09-25T14:02:39.391Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 28
+    "patch": 29
   },
   "keywords": [
     "altfun",
@@ -178,6 +178,17 @@
     },
     {
       "chainId": 999,
+      "address": "0x08F24AF334e5681d0C242336E1d962c86025e67c",
+      "name": "ENA 5x Long",
+      "symbol": "ENA5L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/ENA5L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0x0987B4FDc189D4349C11f33179061E6E16000000",
       "name": "GHOST",
       "symbol": "GHOST",
@@ -337,6 +348,17 @@
       "symbol": "HYPE5L",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/HYPE5L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x19636544e3254C1ea8703D3533BFaA6135D32260",
+      "name": "ENA 3x Long",
+      "symbol": "ENA3L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/ENA3L.png",
       "tags": [
         "bounce"
       ]
@@ -735,6 +757,17 @@
       "logoURI": "https://api.alt.fun/images/tokens/741a0d09-5ece-400e-afa9-1a0e1a900ae9-IMG_3705.jpeg",
       "tags": [
         "altfun"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x35b8080BC42Aecf289088068f9F008973E2dAB70",
+      "name": "ENA 5x Short",
+      "symbol": "ENA5S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/ENA5S.png",
+      "tags": [
+        "bounce"
       ]
     },
     {
@@ -1223,6 +1256,17 @@
     },
     {
       "chainId": 999,
+      "address": "0x6fb667D70f8472E8960eE41Eec79C16c2319C8c6",
+      "name": "ENA 2x Short",
+      "symbol": "ENA2S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/ENA2S.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0x7324b2625FA07eF7CBb8415d60B5D118306EB2F5",
       "name": "xyz:TSLA 5x Short",
       "symbol": "xyz:TSLA5S",
@@ -1591,6 +1635,17 @@
       "symbol": "FARTCOIN5S",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/FARTCOIN5S.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x917afa67155b72A0cfbc1a0991b13E0D62884F47",
+      "name": "ENA 3x Short",
+      "symbol": "ENA3S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/ENA3S.png",
       "tags": [
         "bounce"
       ]
@@ -2416,6 +2471,17 @@
       "symbol": "xyz:BB5L",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:BB5L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xEa4Cb6A9E7bBf577bCECe9D221C09cF277b27202",
+      "name": "ENA 2x Long",
+      "symbol": "ENA2L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/ENA2L.png",
       "tags": [
         "bounce"
       ]
