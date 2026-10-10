@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-09-29T00:03:23.818Z",
+  "timestamp": "2026-10-10T14:05:03.701Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 30
+    "patch": 31
   },
   "keywords": [
     "altfun",
@@ -2495,6 +2495,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/ENA2L.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xeb5C3F423fAe8491243266bb2694D61823400000",
+      "name": "paper-chan",
+      "symbol": "paper",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/dfced3b6-9dd2-4721-9f45-9d2ec405c320-coin.webp",
+      "tags": [
+        "altfun"
       ]
     },
     {
