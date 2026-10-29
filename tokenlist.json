@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-10-29T16:04:46.286Z",
+  "timestamp": "2026-10-29T18:02:11.699Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 33
+    "patch": 34
   },
   "keywords": [
     "altfun",
@@ -2154,6 +2154,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:CL2S.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xbCD28441cF5EA62A86448938DdCc31bac0500000",
+      "name": "HYPER INU",
+      "symbol": "HI",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/2bab279a-3405-474c-82d1-2105664d4867-3q3jEDkqwNamTDWK7PSncQT82Ffppruax27GHqD4pump.webp",
+      "tags": [
+        "altfun"
       ]
     },
     {
