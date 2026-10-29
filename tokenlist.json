@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-10-29T14:03:36.470Z",
+  "timestamp": "2026-10-29T16:04:46.286Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 32
+    "patch": 33
   },
   "keywords": [
     "altfun",
@@ -1285,6 +1285,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/xyz:XYZ1005L.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x751A603D00ebE9Dcb46C48225fF3b79147100000",
+      "name": "elooong",
+      "symbol": "ELOOONG",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/b0af4bae-99d4-495d-a94c-a6dad3da0b02-coin.webp",
+      "tags": [
+        "altfun"
       ]
     },
     {
