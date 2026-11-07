@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-10-29T18:02:11.699Z",
+  "timestamp": "2026-11-07T22:04:32.361Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 34
+    "patch": 35
   },
   "keywords": [
     "altfun",
@@ -262,6 +262,17 @@
       "logoURI": "https://bounce.tech/leveraged-tokens/PUMP3S.png",
       "tags": [
         "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x0E4cb9614a984c42C3C481931ea754ac55000000",
+      "name": "Bitcoin Genesis Block",
+      "symbol": "BTC",
+      "decimals": 18,
+      "logoURI": "https://api.alt.fun/images/tokens/c7f2e6a1-fd79-462f-901e-65337b597f23-dWAbC2wg_400x400.jpeg",
+      "tags": [
+        "altfun"
       ]
     },
     {
