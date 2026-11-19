@@ -1,10 +1,10 @@
 {
   "name": "Alt Fun Token List",
-  "timestamp": "2026-11-07T22:04:32.361Z",
+  "timestamp": "2026-11-19T14:05:04.530Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 35
+    "patch": 36
   },
   "keywords": [
     "altfun",
@@ -761,6 +761,17 @@
     },
     {
       "chainId": 999,
+      "address": "0x34E80F94Bc46EED78E9a2b942A47757365156695",
+      "name": "xyz:ANT 5x Short",
+      "symbol": "xyz:ANT5S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:ANT5S.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0x357fd57E58b2c8cE86D833E793Ff5c0398800000",
       "name": "bugcat capoo",
       "symbol": "bugcat",
@@ -777,6 +788,17 @@
       "symbol": "ENA5S",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/ENA5S.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0x3A350edB69f97Bcd0368f0A909D81250540a16E9",
+      "name": "xyz:ANT 2x Short",
+      "symbol": "xyz:ANT2S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:ANT2S.png",
       "tags": [
         "bounce"
       ]
@@ -1597,6 +1619,17 @@
     },
     {
       "chainId": 999,
+      "address": "0x8C4A354bC9e37106f75F80F7D29616EDF74193B3",
+      "name": "xyz:ANT 3x Long",
+      "symbol": "xyz:ANT3L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:ANT3L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0x8cc03D3589d571F4c3DDE3A6DeC9D34a1d000000",
       "name": "HYPERO",
       "symbol": "HYPERO",
@@ -2312,6 +2345,28 @@
     },
     {
       "chainId": 999,
+      "address": "0xcd172b61179c28e0DB2C8D1337A0D25ED8BFcf82",
+      "name": "xyz:ANT 2x Long",
+      "symbol": "xyz:ANT2L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:ANT2L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xcF0Af78CAfD2C50875eB6C6dd670EC3e536bD432",
+      "name": "xyz:ANT 3x Short",
+      "symbol": "xyz:ANT3S",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:ANT3S.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
       "address": "0xd207c6ad3967C5739fe0c0500bea6E52B8e8F251",
       "name": "xyz:CXMT 5x Short",
       "symbol": "xyz:CXMT5S",
@@ -2603,6 +2658,17 @@
       "symbol": "PUMP5L",
       "decimals": 18,
       "logoURI": "https://bounce.tech/leveraged-tokens/PUMP5L.png",
+      "tags": [
+        "bounce"
+      ]
+    },
+    {
+      "chainId": 999,
+      "address": "0xf106B5aa40F562a86145eED384b62219E241ae11",
+      "name": "xyz:ANT 5x Long",
+      "symbol": "xyz:ANT5L",
+      "decimals": 18,
+      "logoURI": "https://bounce.tech/leveraged-tokens/xyz:ANT5L.png",
       "tags": [
         "bounce"
       ]
